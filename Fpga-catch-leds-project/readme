@@ -1,3 +1,4 @@
 designed by using finite state machine and implemented in verilog it is started with 4 lives. When led not catched.
 it will decreased a live and point. There are 12 levels. Left side count shows total point. Right side count shows level.
+fsm diagram and register design shown by pdf
 Video link: https://www.youtube.com/watch?v=vwDUPHeIB6s
