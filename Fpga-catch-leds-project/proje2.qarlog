@@ -1,0 +1,21 @@
+Quartus II Archive log --	C:/Users/memo/Desktop/proje2.qarlog
+
+Archive:	C:/Users/memo/Desktop/proje2.qar
+Date:		Thu May 02 21:15:35 2019
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/memo/Desktop/quartus/proje2/Dec2Seg.v
+C:/Users/memo/Desktop/quartus/proje2/SDC2.sdc
+C:/Users/memo/Desktop/quartus/proje2/datapathgame2.v
+C:/Users/memo/Desktop/quartus/proje2/fsmgame2.v
+C:/Users/memo/Desktop/quartus/proje2/gamemoduletest.v
+C:/Users/memo/Desktop/quartus/proje2/incremental_db/compiled_partitions/proje2_emb.db_info
+C:/Users/memo/Desktop/quartus/proje2/proje2_emb.qpf
+C:/Users/memo/Desktop/quartus/proje2/proje2_emb.qsf
+C:/Users/memo/Desktop/quartus/proje2/test.v
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
